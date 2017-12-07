@@ -1,0 +1,3 @@
+spring:
+  datasource:
+    url: jdbc:h2:file:C:/Users/R606-05/data
